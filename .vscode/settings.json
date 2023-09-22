@@ -1,0 +1,10 @@
+{
+  "explorer.fileNesting.patterns": {
+    "vite.config.*": "pages.config.*, manifest.config.*, unocss.config.*, volar.config.*, *.env, .env.*"
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "cSpell.words": [
+    "alova"
+  ],
+  "references.preferredLocation": "peek"
+}
